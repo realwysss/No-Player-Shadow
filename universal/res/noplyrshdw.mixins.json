@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.noplyrshdw.mxn",
+  "compatibilityLevel": "JAVA_17",
+  "plugin": "com.noplyrshdw.mxn.MxnPlgn",
+  "client": [
+    "plyrmxn",
+    "plyrmxn1212"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "No-Player-Shadow-Universal-refmap.json"
+}

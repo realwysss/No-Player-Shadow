@@ -1,0 +1,24 @@
+plugins {
+    id 'fabric-loom' version '1.9-SNAPSHOT'
+}
+repositories {
+    maven { url "https://maven.terraformersmc.com/" }
+    maven { url "https://maven.shedaniel.me/" }
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:${project.minecraft_version}"
+    mappings "net.fabricmc:yarn:${project.yarn_mappings}"
+    modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_21
+    targetCompatibility = JavaVersion.VERSION_21
+}
+
+base {
+    archivesName = "No-Player-Shadow-1.21.11"
+}
+version = "1.0.0"
+group = "com.noplyrshdw"

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "noplyrshdw",
+  "version": "1.0.0",
+  "name": "No Player Shadow",
+  "description": "rmvs plyr shdw",
+  "authors": [
+    "zalii"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.noplyrshdw.noplyrshdw"
+    ],
+    "modmenu": [
+      "com.noplyrshdw.ModmenuIntgr"
+    ]
+  },
+  "mixins": [
+    "noplyrshdw.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": ">=1.15 <=1.21.11",
+    "java": ">=17"
+  }
+}

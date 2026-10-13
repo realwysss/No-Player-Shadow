@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.noplyrshdw.mxn",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "plyrmxn1212"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+
