@@ -1,3 +1,5 @@
+<p align="center"><img src="1.21.11/src/main/resources/icon.png" width="128"></p>
+
 # no player shadow
 
 removes the shadow under players. client side fabric mod. it also hides the other entity shadows right now because that is how the 1.21.11 version works.
