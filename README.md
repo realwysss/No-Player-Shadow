@@ -7,7 +7,7 @@ removes the shadow under players. client side fabric mod. it also hides the othe
 there are 2 versions in here:
 
 - `1.21.11` is the normal project, you can build it with gradle
-- `universal` is the code of the universal jar that works on 1.15 up to 1.21.11. i lost the original project for this one so it is decompiled from the jar, the names are a bit ugly but it is the same thing
+- `universal` is the code of the universal jar that works on 1.15 up to 1.21.11.
 
 ## install
 
