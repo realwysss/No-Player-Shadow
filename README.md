@@ -19,4 +19,4 @@ there is no settings screen yet, the values live in the cfg class.
 
 go in the 1.21.11 folder and run `./gradlew build`.
 
-mit license.
+all rights reserved. made by wysss.
